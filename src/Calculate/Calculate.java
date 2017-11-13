@@ -43,12 +43,12 @@ public class Calculate {
 
 	public static int mul(int x, int y) {
 
-		return 0;
+		return x*y;
 	}
 
 	public static double div(int x, int y) {
 		// 실수로 반환이 되도록 구현
 
-		return 0;
+		return x*y;
 	}
 }
